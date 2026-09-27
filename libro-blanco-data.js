@@ -2357,8 +2357,8 @@ window.LIBRO_DATA = {
     {
       "id": "tomo-16",
       "numero": "XVI",
-      "titulo": "Roadmap Tecnológico a 5 Años",
-      "resumen": "Fases de desarrollo, hitos por año, recursos y riesgos del roadmap.",
+      "titulo": "Roadmap Tecnológico a 15 Meses",
+      "resumen": "Fases de desarrollo, hitos por periodo de 3 meses, recursos y riesgos del roadmap.",
       "icono": "CalendarClock",
       "capitulos": [
         {
@@ -2369,28 +2369,28 @@ window.LIBRO_DATA = {
             {
               "tipo": "tabla",
               "encabezados": [
-                "Año",
+                "Periodo",
                 "Hito"
               ],
               "filas": [
                 [
-                  "Año 1",
+                  "Meses 1-3",
                   "Prototipo de laboratorio"
                 ],
                 [
-                  "Año 2",
+                  "Meses 4-6",
                   "Prototipo Alpha · pruebas en líneas desenergizadas"
                 ],
                 [
-                  "Año 3",
+                  "Meses 7-9",
                   "Prototipo Beta · pruebas en líneas energizadas"
                 ],
                 [
-                  "Año 4",
+                  "Meses 10-12",
                   "Pilotos comerciales"
                 ],
                 [
-                  "Año 5",
+                  "Meses 13-15",
                   "Flota operativa y comercialización internacional"
                 ]
               ]
@@ -2400,16 +2400,16 @@ window.LIBRO_DATA = {
         {
           "id": "t16-c2",
           "numero": 2,
-          "titulo": "Hitos por Año",
+          "titulo": "Hitos por Periodo",
           "bloques": [
             {
               "tipo": "lista",
               "items": [
-                "Año 1: arquitectura, simulaciones y banco de pruebas.",
-                "Año 2: integración mecánica y electrónica del primer prototipo.",
-                "Año 3: validación de IA, sensórica y maniobras en tensión.",
-                "Año 4: pilotos con operadores y certificaciones.",
-                "Año 5: producción en serie y despliegue de flota."
+                "Meses 1-3: arquitectura, simulaciones y banco de pruebas.",
+                "Meses 4-6: integración mecánica y electrónica del primer prototipo.",
+                "Meses 7-9: validación de IA, sensórica y maniobras en tensión.",
+                "Meses 10-12: pilotos con operadores y certificaciones.",
+                "Meses 13-15: producción en serie y despliegue de flota."
               ]
             }
           ]
