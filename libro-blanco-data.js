@@ -396,27 +396,27 @@ window.LIBRO_DATA = {
               "filas": [
                 [
                   "Fase A",
-                  "12 meses",
+                  "3 meses",
                   "Investigación y estado del arte"
                 ],
                 [
                   "Fase B",
-                  "12 meses",
+                  "3 meses",
                   "Prototipo Alfa de laboratorio"
                 ],
                 [
                   "Fase C",
-                  "12 meses",
+                  "3 meses",
                   "Prototipo Beta en campo"
                 ],
                 [
                   "Fase D",
-                  "12 meses",
+                  "3 meses",
                   "Piloto industrial"
                 ],
                 [
                   "Fase E",
-                  "12 meses",
+                  "3 meses",
                   "Despliegue comercial"
                 ]
               ]
