@@ -3,7 +3,7 @@ window.LIBRO_DATA = {
     "titulo": "Libro Blanco de Ingeniería",
     "proyecto": "INSTE-BOT X",
     "subtitulo": "Plataforma autónoma de inspección y mantenimiento de líneas energizadas basada en inteligencia artificial",
-    "autor": "Alejandro Pérez",
+    "autor": "Alejandro Ochoa",
     "direccion": "Dirección de Ingeniería Conceptual · Equipo INSTE-BOT",
     "version": "1.0",
     "clasificacion": "Investigación y Desarrollo (I+D)",
